@@ -1,3 +1,7 @@
+## 2020년 4월 KOMORAN 관리도구가 KOMORAN에 통합되어 이 저장소는 더 이상 사용하지 않습니다.
+## [KOMORAN 저장소](https://github.com/shineware/KOMORAN)에서 KOMORAN 관리도구를 사용해보세요!
+
+
 # KOMORAN 관리도구
 
 ## 소개
